@@ -2,11 +2,6 @@
 //PROGRAM WITH PERSISTENT DATA ASSIGNMENT
 //PROGRAM TO MANAGE EMPLOYEES DATAS
 
-//Adam Miedziejewski
-//ID: C12701419
-//DT228/1
-//Group: C
-//Date: 11/04/13
 
 /*###########################################################################################################
 
